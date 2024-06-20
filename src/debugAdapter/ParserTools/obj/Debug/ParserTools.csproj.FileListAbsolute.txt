@@ -1,0 +1,2 @@
+C:\Users\max\Downloads\pascalabcnet\ParserTools\obj\Debug\ParserTools.csproj.AssemblyReference.cache
+C:\Users\max\Downloads\pascalabcnet\ParserTools\obj\Debug\ParserTools.csproj.CoreCompileInputs.cache

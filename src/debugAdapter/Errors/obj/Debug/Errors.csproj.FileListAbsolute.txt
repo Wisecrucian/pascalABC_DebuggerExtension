@@ -1,0 +1,2 @@
+C:\Users\max\Downloads\pascalabcnet\Errors\obj\Debug\Errors.csproj.AssemblyReference.cache
+C:\Users\max\Downloads\pascalabcnet\Errors\obj\Debug\Errors.csproj.CoreCompileInputs.cache

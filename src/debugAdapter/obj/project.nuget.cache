@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "81BTRrwxpnuHB3VNtrVTCzlqRz6IMj1N3BGluOvv/3+77Yls6gECZro4RFZnQaRlJqXfFAXxjpEIX1ZuvuzMkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\max\\Downloads\\kkkkkk\\vscode-mock-debug\\src\\csharp\\mono-debug.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\max\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\max\\.nuget\\packages\\mono.cecil\\0.10.1\\mono.cecil.0.10.1.nupkg.sha512",
+    "C:\\Users\\max\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\max\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

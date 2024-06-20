@@ -1,0 +1,6 @@
+C:\Users\max\Downloads\pascalabcnet\bin\Localization.dll
+C:\Users\max\Downloads\pascalabcnet\bin\Localization.pdb
+C:\Users\max\Downloads\pascalabcnet\Localization\obj\Debug\Localization.csproj.AssemblyReference.cache
+C:\Users\max\Downloads\pascalabcnet\Localization\obj\Debug\Localization.csproj.CoreCompileInputs.cache
+C:\Users\max\Downloads\pascalabcnet\Localization\obj\Debug\Localization.dll
+C:\Users\max\Downloads\pascalabcnet\Localization\obj\Debug\Localization.pdb

@@ -1,0 +1,2 @@
+C:\Users\max\Downloads\pascalabcnet\SyntaxTree\obj\Debug\SyntaxTree.csproj.AssemblyReference.cache
+C:\Users\max\Downloads\pascalabcnet\SyntaxTree\obj\Debug\SyntaxTree.csproj.CoreCompileInputs.cache

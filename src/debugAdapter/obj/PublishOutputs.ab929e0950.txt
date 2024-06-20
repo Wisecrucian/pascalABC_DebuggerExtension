@@ -1,0 +1,8 @@
+C:\mono-debug.exe
+C:\mono-debug.exe.config
+C:\mono-debug.pdb
+C:\Mono.Cecil.Mdb.dll
+C:\Mono.Cecil.Pdb.dll
+C:\Mono.Cecil.Rocks.dll
+C:\Mono.Cecil.dll
+C:\Newtonsoft.Json.dll

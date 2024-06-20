@@ -1,0 +1,12 @@
+C:\Users\max\Downloads\kkkkkk\vscode-mock-debug\src\csharp\obj\Release\mono-debug.csproj.AssemblyReference.cache
+C:\Users\max\Downloads\kkkkkk\vscode-mock-debug\src\csharp\obj\Release\mono-debug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\max\Downloads\kkkkkk\vscode-mock-debug\src\csharp\obj\Release\mono-debug.AssemblyInfoInputs.cache
+C:\Users\max\Downloads\kkkkkk\vscode-mock-debug\src\csharp\obj\Release\mono-debug.AssemblyInfo.cs
+C:\Users\max\Downloads\kkkkkk\vscode-mock-debug\src\csharp\obj\Release\mono-debug.csproj.CoreCompileInputs.cache
+C:\Users\max\Downloads\kkkkkk\vscode-mock-debug\src\csharp\obj\Release\mono-debug.sourcelink.json
+C:\Users\max\Downloads\kkkkkk\vscode-mock-debug\bin\Release\mono-debug.exe.config
+C:\Users\max\Downloads\kkkkkk\vscode-mock-debug\bin\Release\mono-debug.exe
+C:\Users\max\Downloads\kkkkkk\vscode-mock-debug\bin\Release\mono-debug.pdb
+C:\Users\max\Downloads\kkkkkk\vscode-mock-debug\src\csharp\obj\Release\mono-debug.csproj.CopyComplete
+C:\Users\max\Downloads\kkkkkk\vscode-mock-debug\src\csharp\obj\Release\mono-debug.exe
+C:\Users\max\Downloads\kkkkkk\vscode-mock-debug\src\csharp\obj\Release\mono-debug.pdb

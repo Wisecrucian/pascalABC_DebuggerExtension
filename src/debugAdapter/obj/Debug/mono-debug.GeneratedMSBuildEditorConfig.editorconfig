@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = mono-debug
+build_property.ProjectDir = C:\Users\max\Downloads\kkkkkk\vscode-mock-debug\src\csharp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
